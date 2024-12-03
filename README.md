@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/1f807d87-4873-41d1-8810-1e05b84a36e0
 # Application Bancaire avec GraphQL et React
 
 ## Description
